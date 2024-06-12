@@ -1,0 +1,6 @@
+vk:
+  confirmation_token: "Callback API"
+  group_id: "ID group"
+  access_token: "access key"
+server:
+  port: 8080
